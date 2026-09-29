@@ -111,7 +111,7 @@ Go to [**Releases**](../../releases) and download the latest `THS-Server-Manager
 ## Community
 
 - **Discord:** [Join here](https://discord.gg/BCUwKFq3v5) — support, feature requests, announcements
-- **Issues:** Use the [Issues](https://github.com/Hajo02/ths-server-manager/issues) tab for bug reports and feature suggestions
+- **Issues:** Use the [Issues](https://github.com/Hajo02/dayz-server-manager/issues) tab for bug reports and feature suggestions
 
 ## Screenshots
 
@@ -138,6 +138,15 @@ Go to [**Releases**](../../releases) and download the latest `THS-Server-Manager
 
 ### Config Editor
 ![Config](screenshots/config.png)
+
+### RCON Console
+![RCON](screenshots/rcon.png)
+
+### Performance Metrics
+![Metrics](screenshots/metrics.png)
+
+### Backups
+![Backups](screenshots/backups.png)
 
 </details>
 
